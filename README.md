@@ -26,5 +26,6 @@ Two-Level Page-Table Scheme: Users can explore this scheme, which involves divid
 Hashed Page Table with TLB: This scheme utilizes a hashed page table combined with a Translation Lookaside Buffer (TLB). Users can analyze the efficiency of this approach for page table lookups.
 Page Replacement:
 The simulator implements the Second Chance Algorithm for page replacement. Users can observe the circular linked list data structure and how the algorithm determines which pages to replace based on a second chance bit. The simulator calculates page faults, page fault probability, and page fault percentage, providing insights into the performance of the page replacement algorithm.
+
 Conclusion:
 The Operating System Simulator is a comprehensive project that enables users to understand and experiment with essential operating system concepts. With features such as CPU scheduling, semaphores, deadlocks using the Bankers Algorithm, memory management, and page replacement, this simulator provides a valuable learning tool. By exploring and customizing different parameters and algorithms, users can gain practical insights into the behavior and efficiency of these fundamental operating system functionalities.
