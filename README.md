@@ -1,7 +1,7 @@
 Project Description: Operating System Simulator
 
 Introduction:
-The Operating System Simulator is a project developed in C++ for simulating various functionalities of an operating system. This simulator encompasses key concepts in operating systems, such as CPU scheduling, semaphores, deadlocks using the Bankers Algorithm, memory management, and page replacement algorithms. It provides a hands-on platform for understanding and experimenting with these fundamental components of operating systems.
+The Operating System Simulator is a comprehensive project implemented in C++ on the Linux operating system. This simulator provides a platform to study and experiment with various aspects of operating systems, including CPU scheduling, semaphores, deadlocks (using the Bankers Algorithm), memory management, and page replacement algorithms. It aims to simulate the behavior and functionality of an operating system, allowing users to gain practical insights into these fundamental concepts.
 
 Features:
 
